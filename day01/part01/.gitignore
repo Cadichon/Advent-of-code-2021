@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/key
+key.so
+key.dylib
+key.dll
+key.a
+key.lib
+key-test-*
+*.exe
+*.o
+*.obj
+*.lst
