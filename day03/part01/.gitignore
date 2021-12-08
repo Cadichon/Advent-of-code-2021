@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/gamma
+gamma.so
+gamma.dylib
+gamma.dll
+gamma.a
+gamma.lib
+gamma-test-*
+*.exe
+*.o
+*.obj
+*.lst
