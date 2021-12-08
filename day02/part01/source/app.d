@@ -1,5 +1,4 @@
 import std.array : split;
-import std.algorithm : each, splitter;
 import std.range : chunks;
 import std.stdio : writeln;
 
