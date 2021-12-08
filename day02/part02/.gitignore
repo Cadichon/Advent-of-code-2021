@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/gps
+gps.so
+gps.dylib
+gps.dll
+gps.a
+gps.lib
+gps-test-*
+*.exe
+*.o
+*.obj
+*.lst
