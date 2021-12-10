@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"Cadichon"
+	],
+	"copyright": "Copyright © 2021, Cadichon",
+	"description": "Advent of code, day 3 part 1",
+	"license": "WTFPL",
+	"name": "gamma",
+	"stringImportPaths": [".."]
+}
